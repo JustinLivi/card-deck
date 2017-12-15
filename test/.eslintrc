@@ -1,0 +1,4 @@
+{
+    "extends": "brinkbit/test",
+    "root": true
+}
