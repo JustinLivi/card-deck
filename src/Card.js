@@ -1,8 +1,8 @@
 const SUITS = [
-    'hearts',
-    'spades',
-    'clubs',
-    'diamonds',
+    'Hearts',
+    'Spades',
+    'Clubs',
+    'Diamonds',
 ];
 const VALUES = [
     'Ace',
